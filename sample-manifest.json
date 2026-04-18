@@ -1,12 +1,12 @@
 {
-  "export_job_id": "63ccda57-85b2-4122-b4d5-1667a43852a3",
+  "export_job_id": "cdf89bc1-c833-4f26-b390-8afa56edad26",
   "id_short": 390203,
-  "published_at": "2026-04-12T07:19:18Z",
+  "published_at": "2026-04-18T08:00:50Z",
   "repo_name": "white-space-finder-in-kansas-us-sample-390203",
   "sample_asset_name": "beamstation_390203_food_and_drink-us-ks_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/390203/beamstation_390203_food_and_drink-us-ks_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "be85e8bcbeafa9a8d18d9302d3eb2ff21e95967df2657d956339eb874fc7ee21",
-  "sample_size_bytes": 20124,
+  "sample_sha256": "7373f4c2f740cc99c7f9546de52633248a37357e018ec2703bb4898104dfbd11",
+  "sample_size_bytes": 20146,
   "total_records": 6
 }
