@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Kansas that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Kansas, US",
-  "export_job_id": "63ccda57-85b2-4122-b4d5-1667a43852a3",
+  "export_job_id": "cdf89bc1-c833-4f26-b390-8afa56edad26",
   "github_org": "Beamstation-Datasets",
   "id_short": 390203,
   "location_name": "Kansas",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/390203/beamstation_390203_food_and_drink-us-ks_SAMPLE_DIST.csv",
   "sample_pct": 16.67,
   "sample_records": 1,
-  "sample_sha256": "be85e8bcbeafa9a8d18d9302d3eb2ff21e95967df2657d956339eb874fc7ee21",
-  "sample_size_bytes": 20124,
+  "sample_sha256": "7373f4c2f740cc99c7f9546de52633248a37357e018ec2703bb4898104dfbd11",
+  "sample_size_bytes": 20146,
   "total_records": 6,
-  "updated_at": "2026-04-07T17:52:53.004992+00:00"
+  "updated_at": "2026-04-14T23:21:46.564601+00:00"
 }
