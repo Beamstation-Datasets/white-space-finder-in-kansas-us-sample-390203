@@ -9,9 +9,9 @@
 | Dataset ID | `390203` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 6 records |
-| Free sample size | 1 records (16.67%) |
-| Last export | 2026-04-14T23:21:46.564601+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-22T02:52:17.936625+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-kansas-us-sample-390203/releases/download/sample-latest/beamstation_390203_food_and_drink-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
